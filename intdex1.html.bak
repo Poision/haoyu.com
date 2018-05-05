@@ -6,5 +6,10 @@
 </head>
 <body>
 	<h1>这是一个html文件 version 1.0</h1>
+<<<<<<< HEAD:intdex1.html
+	<h2>this is master branch</h2>
+=======
+	<h2>this is dev branch</h2>
+>>>>>>> dev:index.html
 </body>
 </html>
